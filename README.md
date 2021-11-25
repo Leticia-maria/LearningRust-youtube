@@ -8,5 +8,8 @@ This repository contains the information of Learning Rust playlist in my [youtub
 
 [![Watch the video](https://img.youtube.com/vi/8ZkGa2pPBgo/maxresdefault.jpg)](https://youtu.be/8ZkGa2pPBgo)
 
-### Learning Rust(part. 1)! Installation on Ubuntu OS
+### Learning Rust! Hello, Rust(part. 2)
+
+[![Watch the video](https://img.youtube.com/vi/9Aq9Vtwe3Sw/maxresdefault.jpg)](https://youtu.be/9Aq9Vtwe3Sw)
+
 
