@@ -14,6 +14,15 @@ The preferred installation command for `rustup` is:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
+But if you are having trouble running it, you can try:
+
+```bash
+snap install rustup
+rustup install stable
+rustup default stable
+```
+
+
 ### Learning Rust! Hello, Rust(part. 2)
 
 [![Watch the video](https://img.youtube.com/vi/9Aq9Vtwe3Sw/maxresdefault.jpg)](https://youtu.be/9Aq9Vtwe3Sw)
