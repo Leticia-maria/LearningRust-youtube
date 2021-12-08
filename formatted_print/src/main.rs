@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("A month has {} days", 31);
 }
