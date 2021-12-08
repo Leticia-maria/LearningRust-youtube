@@ -22,6 +22,11 @@ rustup install stable
 rustup default stable
 ```
 
+If you wanna to update to new releases, you have to run:
+
+```bash
+rustup update stable
+```
 
 ### Learning Rust! Hello, Rust(part. 2)
 
