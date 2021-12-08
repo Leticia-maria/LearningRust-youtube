@@ -8,7 +8,7 @@ This repository contains the information of Learning Rust playlist in my [youtub
 
 [![Watch the video](https://img.youtube.com/vi/8ZkGa2pPBgo/maxresdefault.jpg)](https://youtu.be/8ZkGa2pPBgo)
 
-The preferred installation is: 
+The preferred installation command for `rustup` is: 
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
